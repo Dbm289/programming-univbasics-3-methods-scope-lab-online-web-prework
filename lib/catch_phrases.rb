@@ -17,4 +17,3 @@ def all_phrases
   all_phrases = "It's-a me, Mario!" 'Thank you Mario! But Our Princess Is In Another Castle!' "It's Dangerous To Go Alone! Take This"
   puts all_phrases
 end
-  
